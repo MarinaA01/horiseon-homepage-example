@@ -19,3 +19,6 @@ N/A
 ## License
 
 MIT License
+
+
+![Module-1-Challenge](https://github.com/MarinaA01/horiseon-homepage-example/assets/68477249/5aebcef9-dc24-4f15-9c15-730730bc76b0)
