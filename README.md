@@ -20,5 +20,5 @@ N/A
 
 MIT License
 
-
-![Module-1-Challenge](https://github.com/MarinaA01/horiseon-homepage-example/assets/68477249/5aebcef9-dc24-4f15-9c15-730730bc76b0)
+![Module-one-challenge-main](https://github.com/MarinaA01/horiseon-homepage-example/assets/68477249/294423d5-807d-4edd-ae74-8e91c6e71aae)
+![Module-One-Challenge-header](https://github.com/MarinaA01/horiseon-homepage-example/assets/68477249/e3e3e5cb-3f0d-4cd6-be1e-76a62d194d36)
